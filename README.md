@@ -90,7 +90,7 @@ Both models provided the different answers.
 
 ## Video Demonstration
 
-A video demonstrating the setup and interaction process is available on YouTube: (https://youtu.be/YfG-cptrxoE?si=xt0jyu5tw50an7A0).
+A video demonstrating the setup and interaction process is available on YouTube: (https://youtu.be/UCdpnT1dlxc).
 
 ## References
 
